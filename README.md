@@ -1,10 +1,18 @@
 # eonhub
 
-This was made to make eonhub.
-All the code is obfuscated so skids can't skid this
-Skids are annoying ong
-I also did it so the owners of some of the scripts that are in there such as admin scripts don't get skidded. I have the scripts safe with me
-Anyways, This is eon hub
+EONHub Is a hub made because I thought it was intresting. I have a little lua experience and I am making more progress.
 
-##Test
+__This Hub has scripts that is not mine. I obfuscated those scripts so no one can get to them. Such as the admin scripts. Those are safe with me__
+
+
+
+
+
+
+
+
+
+
+
+###### **[Eon Hub](https://discord.gg/R5nT5V33TV)**
 
